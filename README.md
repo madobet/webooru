@@ -1,2 +1,2 @@
-# wwwclip
-Web clipped by Web Clipper
+# webooru
+danbooru of clipped web
